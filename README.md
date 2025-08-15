@@ -25,11 +25,11 @@
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/debjit-praharaj-9a6a05329/" target="_blank" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" style="margin-right:20px;" />
+    <pre><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" style="margin-right:20px;" /></pre>
   </a>
   
   <!-- Email -->
   <a href="mailto:debjitpraharaj@gmail.com" target="_blank" title="Email">
-    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email" />
+    <pre><img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email" /></pre>
   </a>
 </p>
