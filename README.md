@@ -9,7 +9,8 @@
 **Frontend:** HTML, CSS, JavaScript  
 **Backend:** Node.js (learning)  
 **Databases:** MySQL, MongoDB (basics)  
-**Tools:** Git, GitHub, VS Code  
+**Tools:** Git, GitHub, VS Code
+**Libraries:** Numpy
 
 ---
 
