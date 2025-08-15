@@ -22,14 +22,5 @@
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/debjit-praharaj-9a6a05329" target="_blank" title="LinkedIn">
-    <pre><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" /></pre>
-  </a>
-  
-  <!-- Email -->
-  <a href="mailto:debjitpraharaj@gmail.com" target="_blank" title="Email">
-    <pre><img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email" /></pre>
-  </a>
-</p>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/debjit-praharaj-9a6a05329)&nbsp;&nbsp;
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:debjitpraharaj@gmail.com)
