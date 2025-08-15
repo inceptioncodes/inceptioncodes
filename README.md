@@ -25,7 +25,7 @@
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/debjit-praharaj-9a6a05329/" target="_blank" title="LinkedIn">
-    <pre><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" style="margin-right:20px;" /></pre>
+    <pre><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" /></pre>
   </a>
   
   <!-- Email -->
