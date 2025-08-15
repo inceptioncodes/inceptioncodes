@@ -1,4 +1,4 @@
-## Hi, I'm Debjit
+## Hi, I'm Dev
 
 🎓 **2nd Year CSE Student** | 💻 Tech Enthusiast
 
