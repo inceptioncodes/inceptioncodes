@@ -23,5 +23,5 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/debjit-praharaj-9a6a05329)&nbsp;&nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/debjit-praharaj)&nbsp;&nbsp;
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:debjitpraharaj@gmail.com)
