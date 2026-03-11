@@ -7,8 +7,7 @@
 ## 🛠 Tech Stack
 **Languages:** Java, Python  
 **Frontend:** HTML, CSS, JavaScript  
-**Backend:** Node.js (learning)  
-**Databases:** MySQL, MongoDB (basics)  
+**Backend:** Django (learning)   
 **Tools:** Git, GitHub, VS Code, Jupyter Notebook  
 **Libraries:** Numpy
 
