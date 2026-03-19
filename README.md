@@ -7,7 +7,7 @@
 ## 🛠 Tech Stack
 **Languages:** Java, Python  
 **Frontend:** HTML, CSS, JavaScript  
-**Backend:** Django (learning)   
+**Backend:** Django   
 **Tools:** Git, GitHub, VS Code, Jupyter Notebook  
 **Libraries:** Numpy
 
