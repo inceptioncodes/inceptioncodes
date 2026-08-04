@@ -1,6 +1,6 @@
 ## Hi, I'm Debjit Praharaj
 
-🎓 **2nd Year CSE Student** | 💻 Tech Enthusiast
+🎓 **3rd Year CSE Student** | 💻 Tech Enthusiast
 
 ---
 
