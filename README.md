@@ -14,10 +14,18 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inceptioncodes&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inceptioncodes&layout=compact&theme=tokyonight)
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inceptioncodes&theme=tokyonight)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=inceptioncodes&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inceptioncodes&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=inceptioncodes&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inceptioncodes&theme=tokyonight" />
+</p>
 ---
 
 ## 📫 Connect With Me
