@@ -9,7 +9,7 @@
 **Frontend:** HTML, CSS, JavaScript  
 **Backend:** Django   
 **Tools:** Git, GitHub, VS Code, Jupyter Notebook  
-**Libraries:** Numpy
+**Libraries:** Numpy, Pandas, Matplotlib, Scikit-learn, PyTorch
 
 ---
 
