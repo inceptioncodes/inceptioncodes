@@ -5,9 +5,9 @@
 ---
 
 ## 🛠 Tech Stack
-**Languages:** Java, Python  
+**Languages:** Java, Python, C 
 **Frontend:** HTML, CSS, JavaScript  
-**Backend:** Django   
+**Backend:** Django, FastAPI   
 **Tools:** Git, GitHub, VS Code, Jupyter Notebook  
 **Libraries:** Numpy, Pandas, Matplotlib, Scikit-learn, PyTorch
 
